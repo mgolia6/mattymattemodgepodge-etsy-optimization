@@ -1,31 +1,16 @@
 # MattyMatteModgePodge Etsy Optimization
+Optimization toolkit for the [MattyMatteModgePodge](https://mattymattemodgepodge.etsy.com) Etsy store. Anchoring on the mpgink brand — streetwear, creative apparel, graphic goods for creatives 25–45.
 
-Optimization toolkit for the [MattyMatteModgePodge](https://mattymattemodgepodge.etsy.com) Etsy store.
+## Status
+Active | 1 of 14 listings optimized.
+
+## Repo
+mgolia6/mattymattemodgepodge-etsy-optimization (public)
 
 ## Strategy
-Focusing the store on the **mpgink** anchor brand — streetwear, creative apparel, and graphic goods for creatives 25–45. Everything off-brand is deactivated or parked for future shops.
+Focusing the store on the mpgink anchor brand. Everything off-brand is deactivated or parked for future shops.
 
-## Structure
-```
-listings/        # Optimized listing copy (title, description, tags, notes)
-strategy/        # Brand strategy, shop restructure docs
-assets/          # Brand assets, icons, banners
-```
-
-## Listing Optimization Order
-Working strongest → weakest:
-1. ✅ mpgink Graffiti Logo Hooded Tee
-2. mpgink Paint Splatter Flat Bill Cap
-3. Zen AF Crewneck Sweatshirt
-4. mpgink Graffiti Script Socks
-5. Aloha Friday Motivation Hoodie Tee
-6. Bowln Away mpgink Hoodie
-7. Zen AF Sunburst Trucker Cap
-8. Pau Hana Moana T-Shirt
-9. Pink Plumeria Phone Case
-10. Retro Sunset Palm Trees iPhone Case
-11. Palm Springs Good Vibes Tank
-12. Life Is Like a Post It Note Tee
-13. Coed Naked Lacrosse T-Shirt
-14. Be Kind It's Contagious Tee
-
+## Quick Start (for Claude)
+1. Read State/etsy-state.md
+2. Read latest Logs/etsy-log-[date].md
+3. Wait for wake word
